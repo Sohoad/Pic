@@ -1,3 +1,8 @@
 {
-
+"title_tip": "这是一条测试消息",
+"info": "这是一条测试info",
+"gender": "male",
+"city": "New York",
+"hobbies": ["reading", "hiking", "traveling"],
+"isMarried": false
 }
