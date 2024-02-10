@@ -1,8 +1,16 @@
 {
-"title_tip": "这是一条测试消息",
-"info": "这是一条测试info",
-"gender": "male",
-"city": "New York",
-"hobbies": ["reading", "hiking", "traveling"],
-"isMarried": false
+    "info": {
+        "title": "这是一条测试消息",
+        "last_version":"172326",
+        "version_log": {
+            "171213": "123 Main St",
+            "171214": "Los Angeles",
+            "171215": "CA"
+        }
+    },
+    "description":{
+        "base_top_title":"🎉基安技术交流频道欢迎你的加入_",
+        "version_info_before":"",
+        "version_info_after":""
+    }
 }
